@@ -1,2 +1,2 @@
 # Angular
-Repositorio destinado ao projeto de Angular do UNIESP
+Projeto em Angular
